@@ -1,7 +1,7 @@
 # Angel_Simulation
 Project #1 - A Sky Full of Rotating Stars
 
-i don't know why the center rotation script is out here and idk how to remove it either :/
+https://hun-bxsci.itch.io/angel
 
 # Script discriptions 
 centerMotion
