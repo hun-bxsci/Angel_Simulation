@@ -8,7 +8,7 @@ public class WingMotion : MonoBehaviour
   [SerializeField, Range(1,20)]
   float magnitude;
   [SerializeField]
-  public GameObject center; 
+  GameObject center; 
   void Start()
   {
     magnitude = magnitude/100;

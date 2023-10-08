@@ -7,7 +7,7 @@ public class centerMotion : MonoBehaviour
     Quaternion start;
     Quaternion end;
     float timeCount = 0.0f;
-    [SerializeField, Range(0,90)]
+    [SerializeField]
     float x,y,z,speed;
     void Start(){
         start = Quaternion.Euler(-x,-y,-z);
